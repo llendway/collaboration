@@ -1,4 +1,4 @@
 # collaboration
-Practice collaborating using GitHub.
+WE know a lot of git/GitHub.
 
 hello im editing the document.
